@@ -1,0 +1,25 @@
+Para a tela funcionar corretamente, é preciso dar algumas permissões para algumas pastas e arquivos.
+
+OBS: Algumas hospedagems ou vps já dão as permissões no automático, para saber se a sua é assim, basta tentar proessguir com a instalação sem verificar nada
+caso a tela apresente algum erro logo na área de login, é porque você precisa seguir os passos abaixo.
+
+
+<< ATENÇÃO >>
+
+Se você não sabe dar permissões para um arquivo ou pasta, recomendo que busque algum tutorial no google, não é dificil.
+
+
+De permissções para as seguintes pastas
+
+
+No arquivo chamado "config.php" o caminho é /7879577849275/Raiz/admin/function/config.php - De a permissão 777
+
+
+Atenção: Os passos abaixo servem somente para quem vai usar boleto na tela, se você só vai colher CC, não precisa faze-los
+
+
+Na pasta chamada "leto" o caminho é /7879577849275/Raiz/leto - De a permissão 777
+
+Na pasta chamada "tmp" o caminho é /7879577849275/Raiz/pdf/mpdf/mpdf/tmp - De a permissão 777
+
+Na pasta chamada "files" o caminho é /7879577849275/files - De a permissão 777
